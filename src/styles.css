@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --border-blue: rgb(38, 132, 225);
+  --black: black;
+  --white: white;
+  --border-grey: rgb(204, 204, 204);
+  --light-grey: rgb(230, 230, 230);
+  --dark-grey: rgb(51, 51, 51);
+}
+
+.App {
+  font-family: sans-serif;
+  margin: 20px;
+}

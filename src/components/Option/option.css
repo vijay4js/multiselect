@@ -1,0 +1,15 @@
+.dropdown-options-container .option {
+  cursor: pointer;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.dropdown-options-container .option.selected {
+  background-color: var(--border-blue);
+  color: var(--white);
+}
